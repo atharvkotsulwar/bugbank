@@ -1,0 +1,14 @@
+{"level":"info","message":"MongoDB connected","timestamp":"2025-11-16T07:53:56.979Z"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"eestk\" (type string) at path \"_id\" for model \"Bug\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"eestk\"","value":"eestk","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"eestk\" (type string) at path \"_id\" for model \"Bug\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"eestk\"","value":"eestk","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"eestk\" (type string) at path \"_id\" for model \"Bug\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"eestk\"","value":"eestk","valueType":"string"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"eestk\" (type string) at path \"_id\" for model \"Bug\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"eestk\"","value":"eestk","valueType":"string"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-11-16T09:29:43.563Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-11-16T09:31:45.746Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-11-16T09:33:32.944Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-11-16T09:44:38.283Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-11-16T10:50:28.626Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-11-16T12:26:56.167Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-11-16T14:05:29.883Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-11-16T14:56:36.843Z"}
+{"level":"info","message":"MongoDB connected","timestamp":"2025-11-16T16:19:33.908Z"}
