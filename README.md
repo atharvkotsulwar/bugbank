@@ -51,20 +51,21 @@ A full-stack production-ready MERN application featuring real-time bug reporting
 
 ---
 
-- ## 📸 Screenshots
+## 📸 Screenshots
 
 ### Bug List
-![Bug List](screenshots/01-Bug List Page.png)
+![Bug List](screenshots/01-Bug%20List%20Page.png)
 
 ### Create Bug
-![Create Bug](screenshots/02-Create Bug Page.png)
+![Create Bug](screenshots/02-Create%20Bug%20Page.png)
 
 ### Bug Detail
-![Bug Detail](screenshots/03-Bug Detail Page.png)
+![Bug Detail](screenshots/03-Bug%20Detail%20Page.png)
 
 ### Leaderboard
 ![Leaderboard](screenshots/04-Leaderboard.png)
 
-### Userbug Status
-![Userbug Status](screenshots/05-Userbug-Status.png)
+### User Bug Status
+![User Bug Status](screenshots/05-Userbug-Status.png)
+
 
