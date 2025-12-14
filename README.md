@@ -63,7 +63,7 @@ A full-stack production-ready MERN application featuring real-time bug reporting
 ![Bug Detail](screenshots/03-Bug-Detail-Page.png)
 
 ### Leaderboard
-![Leaderboard](screenshots/04-leaderboard.png)
+![Leaderboard](screenshots/04-Leaderboard.png)
 
 ### Userbug Status
 ![Userbug Status](screenshots/05-Userbug-Status.png)
