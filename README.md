@@ -43,9 +43,28 @@ A full-stack production-ready MERN application featuring real-time bug reporting
 - Global ranking based on XP
 - Weekly performance stats
 
+
 ### 🔐 User & Admin Dashboards
 - Role-based routing
 - Admin can view all users, all bugs
 - Admin can verify/resolve bugs
 
 ---
+
+- ## 📸 Screenshots
+
+### Bug List
+![Bug List](screenshots/01-Bug-List-Page.png)
+
+### Create Bug
+![Create Bug](screenshots/02-Create-Bug-Page.png)
+
+### Bug Detail
+![Bug Detail](screenshots/03-Bug-Detail-Page.png)
+
+### Leaderboard
+![Leaderboard](screenshots/04-leaderboard.png)
+
+### Userbug Status
+![Userbug Status](screenshots/05-Userbug-Status.png)
+
